@@ -1,0 +1,1 @@
+<h2 class="text-yellow-600 font-bold">priveet tam ddsadsad hahaa</h2>
